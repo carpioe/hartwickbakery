@@ -55,3 +55,4 @@ if sum(candy) > sum(cookies):
     print("The more popular item at the bakery is candy!")
 elif sum(cookies) > sum(candy):
     print("The more popular item at the bakery is cookies!")
+
